@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import hasReplaceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-replace-symbol-support@deno/mod.js';
+import hasReplaceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-replace-symbol-support@v0.1.1-deno/mod.js';
 ```
 
 #### hasReplaceSymbolSupport()
@@ -71,7 +71,7 @@ var bool = hasReplaceSymbolSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasReplaceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-replace-symbol-support@deno/mod.js';
+import hasReplaceSymbolSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-replace-symbol-support@v0.1.1-deno/mod.js';
 
 var bool = hasReplaceSymbolSupport();
 if ( bool ) {
